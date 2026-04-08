@@ -68,59 +68,56 @@
 
 ### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="65" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="65" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="65" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" height="65" alt="C" />
+  <img src="https://skillicons.dev/icons?i=php" height="65" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="65" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" />
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://skillicons.dev/icons?i=react" height="65" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="65" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="65" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="65" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="65" alt="Styled Components" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="65" alt="SQLite" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4B4?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" height="65" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="65" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=xd" height="65" alt="Adobe XD" />
 </p>
 
 ### IDEs & Editors
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white" alt="Sublime Text" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="65" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="65" alt="Sublime Text" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="65" alt="Eclipse" />
 </p>
 
 ### Operating Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="65" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=windows" height="65" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="65" alt="Android" />
 </p>
 
 ---
