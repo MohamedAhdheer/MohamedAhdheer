@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px"/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="140px"/>
 
 # 👋 Hi, I'm Mohamed Ahdheer
 
 ### 💻 Full Stack Developer | Software Engineering Student | Sri Lanka 🇱🇰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6FDA44&center=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;UI%2FUX+Designer;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=6FDA44&center=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;UI%2FUX+Designer;Problem+Solver"/>
 
 </div>
 
@@ -17,9 +17,9 @@
 🎓 Software Engineering Student at **SLIIT**  
 💡 Passionate about building **modern web applications**  
 ⚡ Love solving **complex problems with clean code**  
-🌱 Currently learning **React, Java and advanced web development**
+🌱 Currently learning **React, Java, and modern full-stack technologies**
 
-📫 Reach me: **ahdheerofficial1@gmail.com**
+📫 Contact: **ahdheerofficial1@gmail.com**
 
 ---
 
@@ -43,7 +43,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -59,38 +59,44 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahdheer&theme=react-dark&hide_border=true"/>
+
+</p>
+
 ---
 
 # 🧠 Tech Stack
 
 ### 💻 Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php,kotlin,python" height="70"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php,kotlin,python" height="65"/>
 </p>
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Libraries
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap" height="70"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap" height="65"/>
 </p>
 
 ### 🗄 Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="70"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="65"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" height="70"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" height="65"/>
 </p>
 
-### 💻 IDEs
+### 🖥 IDEs
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,eclipse" height="70"/>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,eclipse" height="65"/>
 </p>
 
 ### 🖥 Operating Systems
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="70"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="65"/>
 </p>
 
 ---
@@ -103,32 +109,3 @@
 
 </p>
 
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-*"Code is like poetry — expressing ideas beautifully through logic."*
-
-</p>
-
----
-
-# ⭐ Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohamedahdheer&label=Profile+Views&color=brightgreen"/>
-
-</p>
