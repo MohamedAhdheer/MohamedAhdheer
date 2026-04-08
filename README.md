@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="140px"/>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="140px" alt="Profile GIF" />
 
 # 👋 Hi, I'm Mohamed Ahdheer
 
 ### 💻 Full Stack Developer | Software Engineering Student | Sri Lanka 🇱🇰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=6FDA44&center=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;UI%2FUX+Designer;Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=6FDA44&center=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer;Front-End+Developer;Back-End+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -25,44 +25,30 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/mohamed-ahdheer-64983235b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/mohamed-ahdheer-64983235b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="https://instagram.com/_mhd._.ahdheer_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<a href="https://instagram.com/_mhd._.ahdheer_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
 <a href="mailto:ahdheerofficial1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-</p>
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedahdheer&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahdheer&layout=compact&theme=radical&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahdheer&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahdheer&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahdheer&theme=react-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahdheer&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -70,42 +56,48 @@
 # 🧠 Tech Stack
 
 ### 💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php,kotlin,python" height="65"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,c,php,kotlin,python" height="65" alt="Languages" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap" height="65"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap" height="65" alt="Frameworks and Libraries" />
 </p>
 
 ### 🗄 Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="65"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="65" alt="Databases" />
 </p>
 
 ### 🛠 Tools & Platforms
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" height="65"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" height="65" alt="Tools and Platforms" />
 </p>
 
 ### 🖥 IDEs
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,eclipse" height="65"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,eclipse" height="65" alt="IDEs" />
 </p>
 
 ### 🖥 Operating Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="65"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="65" alt="Operating Systems" />
 </p>
 
 ---
 
-# 🏆 Achievements
+
+# 💡 Developer Quote
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedahdheer&theme=radical&no-frame=true&margin-w=10"/>
-
+  <em>"Code is like poetry — expressing ideas beautifully through logic."</em>
 </p>
 
+---
+
+# ⭐ Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedahdheer&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+</p>
